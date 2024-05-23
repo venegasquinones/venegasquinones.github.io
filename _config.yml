@@ -48,9 +48,18 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  As a GIS hydrogeologist professional, I have extensive experience in data analysis, GIS, hydrology, geology, flood events, and machine learning. I am dedicated to advancing the academic, public, and private sectors and have contributed to this goal by creating various free tools for the community to improve the stakeholder process. In addition, I have a strong background in groundwater modeling, dewatering systems, fault and vertical displacement detection, and remote sensing, and have successfully applied these skills to various projects. My ability to effectively utilize these tools has enabled me to conduct accurate analyses and create innovative solutions. I am committed to staying up-to-date with the latest developments in GIS hydrogeology and am always seeking new opportunities to learn and grow in my field. My zeal for this profession motivates me to consistently enhance my skills, make meaningful contributions to the scientific community, and resolve issues that impact people.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  <mark>Education</mark>
+  The University of Arizona, AZ, United States
+  •	PhD (c) – Groundwater – Machine Learning – Remote Sensing
+  •	MSc. – Remote Sensing Analysis – Machine Learning
+  •	MSc. – Groundwater Modelling – Stakeholder process
+  Pontifical Catholic University of Chile, Chile
+  •	MSc. – Erosion – Groundwater – Machine Learning
+  Andrés Bello University, Chile
+  •	Environmental Engineer
+
 
 content:
   - title: Projects # Title for the section
